@@ -1,0 +1,7 @@
+server:
+  port: 8088
+
+kafka:
+  bootstrap:
+    servers: master:9092,slave1:9092,slave2:9092
+
